@@ -32,8 +32,10 @@
 <details>
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="metinuyanik's Github Stats">
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&hide=HTML&langs_count=10&bg_color=0,000000,130F40&theme=react"/>
+<a href="https://github.com/metinuyanik">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metinuyanik&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&langs_count=8&theme=react"/>
+</a>
 </p>
 </details>
 
