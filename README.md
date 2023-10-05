@@ -1,11 +1,21 @@
-[![Metin Uyanık Welcome!.](https://media.discordapp.net/attachments/825776443153055795/1159603080459976784/WELCOME.png?ex=65319f86&is=651f2a86&hm=8109c8b56e4a8bf209fb085862168f0012c339894a0e70df845ff8f80e3a6145&=&width=2262&height=754)]
-
 <h1 align="center">Hi 👋, I'm Metin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
+![Metin Uyanık Welcome!.](https://media.discordapp.net/attachments/825776443153055795/1159609770660069396/WELCOME_1.png?ex=6531a5c1&is=651f30c1&hm=42d1a423ca1487e6c2a06089d680c09d6fe567962e854a61978f85796f6a891e&=&width=2262&height=754)
 
-</div>
+## 🔧 Technologies Stack 🔧
+
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
+## 🔧 Technologies Stack 🔧
 
 
+
+## Contacts
+
+
+
+## ⚙️ GitHub Stats ⚙️
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&theme=react&show_icons=true&include_all_commits=true" />
