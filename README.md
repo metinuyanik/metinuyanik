@@ -24,7 +24,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_style=social)
+![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_)
 [![Linkedin: metin-uyanik](https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-uyanik/)](https://www.linkedin.com/in/metin-uyanik/)
 
 
@@ -33,8 +33,8 @@
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
 <p align="center">
 <a href="https://github.com/metinuyanik">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metinuyanik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="40" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metinuyanik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="40" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </details>
