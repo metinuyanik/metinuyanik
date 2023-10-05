@@ -33,8 +33,8 @@
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
 <p align="center">
 <a href="https://github.com/metinuyanik">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metinuyanik&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=metinuyanik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </details>
