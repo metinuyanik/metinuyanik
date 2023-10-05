@@ -18,7 +18,7 @@
 
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
 
-## Future Plans
+### Future Plans
   
 -- soon.
 
@@ -31,9 +31,8 @@
 ------
 <details>
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Metin Uyanık's Github Stats"></p>
-<p align="right"> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Metin Uyanık's Github Stats"> 
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&hide=HTML&langs_count=10&bg_color=0,000000,130F40&theme=react"/>
 </p>
 </details>
