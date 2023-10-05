@@ -32,7 +32,7 @@
 <details>
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&show_icons=true&include_all_commits=true&theme=react" alt="MetinUyanık's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&show_icons=true&include_all_commits=true&bg_color=0,000000,130F40&theme=react" alt="MetinUyanık's github stats" />
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&hide=HTML&langs_count=10&bg_color=0,000000,130F40&theme=react"/>
 </p>
 </details>
