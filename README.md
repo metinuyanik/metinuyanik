@@ -2,11 +2,11 @@
 
 ![Metin Uyanık Welcome!.](https://media.discordapp.net/attachments/825776443153055795/1159609770660069396/WELCOME_1.png?ex=6531a5c1&is=651f30c1&hm=42d1a423ca1487e6c2a06089d680c09d6fe567962e854a61978f85796f6a891e&=&width=2262&height=754)
 
-## 👨‍💻 About Me:
+### 👨‍💻 About Me:
 
 -- soon.
 
-## 🔧 Technologies Stack 🔧
+### 🛠 &nbsp;Tech Stack
 ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
@@ -22,18 +22,19 @@
   
 -- soon.
 
-## 🔗 Contacts
+### 🤝🏻 &nbsp;Connect with Me
 
-![X Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_?label=Follow)
+![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_style=social)](https://twitter.com/_Metin_Uynk_)
 [![Linkedin: metin-uyanik](https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-uyanik/)](https://www.linkedin.com/in/metin-uyanik/)
 
 
 ------
 <details>
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
-<p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=react"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=react"/>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metinuyanik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Metin Uyanık's Github Stats"></p>
+<p align="right"> 
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinuyanik&layout=compact&hide=HTML&langs_count=10&bg_color=0,000000,130F40&theme=react"/>
 </p>
 </details>
 
