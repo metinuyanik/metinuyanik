@@ -26,13 +26,13 @@ I'm Metin, I'm a software developer.
 
 ### ⏳ Future Plans
 
+<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" />
+
 - Finishing my courses.
 - To improve myself in the field of Swift with projects.
 - I would like to edit and upload other works I have done.
 
 ---
-
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
