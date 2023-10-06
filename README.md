@@ -22,12 +22,17 @@ I'm Metin, I'm a software developer.
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/VS-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 
-### Future Plans
+### ⏳ Future Plans
 
+- Finishing my courses.
+- To improve myself in the field of Swift with projects.
+- I would like to edit and upload other works I have done.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" width="400" height="280" />
+---
+
+<img align="right" alt="GIF" height="200px"src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
