@@ -32,7 +32,7 @@ I'm Metin, I'm a software developer.
 
 ---
 
-<img align="right" alt="GIF" height="140px"src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" />
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/xsF1FSDbjguis/giphy.gif" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
