@@ -34,10 +34,10 @@ I'm Metin, I'm a software developer.
 
 <br>
 <br>
+<br>
+<br>
 
 ---
-<br>
-<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
