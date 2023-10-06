@@ -32,7 +32,12 @@ I'm Metin, I'm a software developer.
 - To improve myself in the field of Swift with projects.
 - I would like to edit and upload other works I have done.
 
+<br>
+<br>
+
 ---
+<br>
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
