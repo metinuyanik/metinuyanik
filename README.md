@@ -64,7 +64,6 @@ I'm Metin, I'm a software developer.
 <p align="center">
 <a href="https://github.com/metinuyanik/"><img src="https://img.shields.io/github/followers/metinuyanik?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 <a href="https://github.com/metinuyanik/"><img src="https://img.shields.io/github/last-commit/metinuyanik/metinuyanik?style=flat-square?color=white&label=Last%20Updated%20"/></a>
-<br>
 <a href="https://github.com/metinuyanik/"><img src="https://komarev.com/ghpvc/?username=metinuyanik" alt="metinuyanik" /></a>
 </p>
 
