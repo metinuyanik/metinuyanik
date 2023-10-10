@@ -48,6 +48,7 @@ I'm Metin, I'm a software developer.
 ![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_)
 [![Linkedin: metin-uyanik](https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-uyanik/)](https://www.linkedin.com/in/metin-uyanik/)
 
+------
 
 <details>
 <summary> <b>📊 GitHub Stats (Click to Show)</b></summary>
