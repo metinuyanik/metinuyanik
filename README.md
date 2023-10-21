@@ -42,7 +42,6 @@ I'm Metin, I'm a software developer.
 <br>
 
 
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 ![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_)
@@ -60,7 +59,6 @@ I'm Metin, I'm a software developer.
 </p>
 </details>
 
-
 ------
 <p align="center">
 <a href="https://github.com/metinuyanik/"><img src="https://img.shields.io/github/followers/metinuyanik?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
@@ -70,6 +68,6 @@ I'm Metin, I'm a software developer.
 
 
 
-Credits: [MetinUyanık](https://github.com/metinuyanik)
+Credits: [MetinUyanık](https://github.com/metinuyanik/metinuyanik)
 
-Last Edited on: 06/10/2023
+Last Edited on: 21/10/2023
