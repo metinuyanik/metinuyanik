@@ -47,7 +47,7 @@ I'm Metin, I'm a software developer.
 <br>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝 &nbsp;Connect with Me
 
 ![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_)
 [![Linkedin: metin-uyanik](https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-uyanik/)](https://www.linkedin.com/in/metin-uyanik/)
