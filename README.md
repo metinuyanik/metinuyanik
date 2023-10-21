@@ -29,6 +29,7 @@ I'm Metin, I'm a software developer.
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=purple)
+![](https://img.shields.io/badge/IDE-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=#FF9800)
 ![](https://img.shields.io/badge/IDE-Eclipseide-informational?style=flat&logo=eclipseide&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=black)
 ![](https://img.shields.io/badge/IDE-Unity-informational?style=flat&logo=unity&logoColor=white&color=black)
