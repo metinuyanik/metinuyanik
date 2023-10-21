@@ -22,8 +22,8 @@ I'm Metin, I'm a software developer.
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Code-Js-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cyanblue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=rgb(114,38,38))
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=rgb(41,88,128))
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=lightblue)
 
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
