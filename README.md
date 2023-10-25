@@ -52,7 +52,7 @@ I'm Metin, I'm a software developer.
 
 
 <p align="center">
-<a href="https://twitter.com/_Metin_Uynk_"><img src="https://img.shields.io/twitter/follow/_Metin_Uynk_?style=flat-square?color=%234CC61E&label=twitter"/></a>
+<a href="https://twitter.com/_Metin_Uynk_"><img src="https://img.shields.io/twitter/follow/_Metin_Uynk_?style=flat&logo=x&logocolor=white&color=black&label=X"/></a>
 <a href="https://www.linkedin.com/in/metin-uyanik/"><img src="https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
