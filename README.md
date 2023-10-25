@@ -49,10 +49,13 @@ I'm Metin, I'm a software developer.
 
 
 ### 🤝 &nbsp;Connect with Me
+
+
 <p align="center">
-[![X: Follow](https://img.shields.io/twitter/follow/_Metin_Uynk_)
-[![Linkedin: metin-uyanik](https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-uyanik/)](https://www.linkedin.com/in/metin-uyanik/)
-<p>
+<a href="https://twitter.com/_Metin_Uynk_"><img src="https://img.shields.io/twitter/follow/_Metin_Uynk_?style=flat-square?color=%234CC61E&label=twitter"/></a>
+<a href="https://www.linkedin.com/in/metin-uyanik/"><img src="https://img.shields.io/badge/-metinuyanik-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
+
 
 ------
 
