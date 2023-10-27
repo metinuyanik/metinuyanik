@@ -77,8 +77,6 @@ I'm Metin, I'm a software developer.
 <a href="https://github.com/metinuyanik/"><img src="https://komarev.com/ghpvc/?username=metinuyanik" alt="metinuyanik" /></a>
 </p>
 
-
-
 Credits: [MetinUyanık](https://github.com/metinuyanik/metinuyanik)
 
 Last Edited on: 25/10/2023
