@@ -6,8 +6,8 @@
 
 I'm Metin, I'm a software developer.
 
-- 🔭 I’m currently working on **IOS Development**
-- 🌱 I’m currently learning **Swift**
+- 🔭 I’m currently working on **IOS Development & Backend**
+- 🌱 I’m currently learning **SwiftUI**
 - 💬 Ask me about Anything [here](https://github.com/metinuyanik/metinuyanik/issues/)! I am happy to help.
 
 ### 🛠 &nbsp;Tech Stack
@@ -79,4 +79,4 @@ I'm Metin, I'm a software developer.
 
 Credits: [MetinUyanık](https://github.com/metinuyanik/metinuyanik)
 
-Last Edited on: 25/10/2023
+Last Edited on: 20/12/2023
